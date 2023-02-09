@@ -1,0 +1,28 @@
+{
+  "name": "obote",
+  "version": "3.2.1",
+  "description": "Bot para a twitch",
+  "main": "index.js",
+  "dependencies": {
+    "country-emoji": "^1.5.3",
+    "discord.js": "^12.2.0",
+    "ms": "^2.1.2",
+    "mysql2": "^2.1.0",
+    "mysql2-promise": "^0.1.4",
+    "parse-ms": "^2.1.0",
+    "pretty-ms": "^7.0.0",
+    "spacex-api-wrapper": "^3.0.7",
+    "tmi.js": "^1.5.0",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "obote",
+    "node"
+  ],
+  "author": "Namaca",
+  "license": "MIT"
+}
